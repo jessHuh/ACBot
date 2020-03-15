@@ -1,0 +1,18 @@
+{
+    "name": "Bot1",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "https://localhost:44316/api/messages",
+            "id": "35ed3a00-6669-11ea-9d34-1d47aa162da0",
+            "name": "https://localhost:44316/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "/Users/soyoung/demo1/Bots/Bot1.bot",
+    "overrides": null
+}
